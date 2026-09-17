@@ -1,0 +1,14 @@
+.env
+.git
+.gitignore
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+venv/
+env/
+.venv/
+rag/embeddings/
+*.zip
+.DS_Store
