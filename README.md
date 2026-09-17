@@ -76,3 +76,5 @@ The FAISS index is built during the image build, so the container starts fast an
 ## Disclaimer
 
 Educational tool, not SEBI-registered investment advice. Tax rules reflect FY 2025-26.
+
+   **[Live demo](https://finwise-ai.mangocliff-f640856d.centralindia.azurecontainerapps.io)**
